@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1742297323 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\fuse.c
+	<avr/io.h>
+
+1742852494 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\main.c
+	"StepperMotor.h"
+	"Ultrasoon.h"
+
+1742851337 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\steppermotor.c
+	"StepperMotor.h"
+
+1742851761 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\steppermotor.h
+	<avr/io.h>
+	<util/delay.h>
+
+1742852277 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\ultrasoon\ultrasoon.c
+	"Ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+
+1742852315 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\ultrasoon\ultrasoon.h
+
+1742852315 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\ultrasoon.h
+
+1742852277 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\ultrasoon.c
+	"Ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+
