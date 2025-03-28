@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742989213 source:g:\my drive\mechatronica haagse hogeschool\project2\program\interface_module_take2\fuse.c
+	<avr/io.h>
+
+1742989647 source:g:\my drive\mechatronica haagse hogeschool\project2\program\interface_module_take2\main.c
+	<avr/io.h>
+	<util/delay.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1742298442 source:d:\programming\codeblocks\ultrasoon\ultrasoon\fuse.c
+	<avr/io.h>
+
+1742378578 source:d:\programming\codeblocks\ultrasoon\ultrasoon\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/io.h>
+	"ultrasoon.h"
+
+1742495341 d:\programming\codeblocks\ultrasoon\ultrasoon\ultrasoon.h
+
+1742483674 source:d:\programming\codeblocks\ultrasoon\ultrasoon\ultrasoon.c
+	"ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+

@@ -6,6 +6,7 @@
 
 int main(void)
 {
+    display1();
     ultrasoon_setup();
     while(1) {
         float afstand_links = ultrasoon_getDistance_L();

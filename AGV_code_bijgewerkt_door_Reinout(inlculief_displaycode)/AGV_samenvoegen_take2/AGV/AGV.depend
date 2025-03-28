@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1742297323 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\fuse.c
+	<avr/io.h>
+
+1742995468 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\main.c
+	"StepperMotor.h"
+	"Ultrasoon.h"
+
+1742990120 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\steppermotor.c
+	"StepperMotor.h"
+
+1742851761 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\steppermotor.h
+	<avr/io.h>
+	<util/delay.h>
+
+1742852277 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\ultrasoon\ultrasoon.c
+	"Ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+
+1742852315 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\ultrasoon\ultrasoon.h
+
+1742852315 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\ultrasoon.h
+
+1742897454 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv\ultrasoon.c
+	"Ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+
+1743059100 source:g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\fuse.c
+	<avr/io.h>
+
+1743059100 source:g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\steppermotor.c
+	"StepperMotor.h"
+
+1743059100 g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\steppermotor.h
+	<avr/io.h>
+	<util/delay.h>
+
+1743063998 source:g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\display1.c
+	"Display1.h"
+
+1743064149 g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\display1.h
+	<avr/io.h>
+	<util/delay.h>
+
+1743063319 source:g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\main.c
+	"StepperMotor.h"
+	"Ultrasoon.h"
+
+1743059100 g:\my drive\mechatronica haagse hogeschool\project2\program\agv_samenvoegen_take1\agv\ultrasoon.h
+
+1743059100 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\fuse.c
+	<avr/io.h>
+
+1743165594 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\main.c
+	"Display1.h"
+	"StepperMotor.h"
+	"Ultrasoon.h"
+
+1743162805 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\steppermotor.h
+	<avr/io.h>
+	<util/delay.h>
+
+1743059100 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\ultrasoon.h
+
+1743164725 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\steppermotor.c
+	"StepperMotor.h"
+
+1743164025 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\ultrasoon.c
+	"Ultrasoon.h"
+	"avr/io.h"
+	"avr/interrupt.h"
+
+1743166559 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\display1.c
+	"Display1.h"
+	"IRSensor.h"
+	<avr/io.h>
+
+1743165036 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\display1.h
+
+1743166201 c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\irsensor.h
+	<avr/io.h>
+	<util/delay.h>
+
+1743166304 source:c:\users\yamai\de haagse hogeschool\victor zandbergen (24076724) - agv project\code\agv_code_bijgewerkt_door_reinout(inlculief_displaycode)\agv_samenvoegen_take2\agv\irsensor.c
+	"IRSensor.h"
+

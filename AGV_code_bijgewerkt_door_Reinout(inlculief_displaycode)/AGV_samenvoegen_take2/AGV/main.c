@@ -1,24 +1,28 @@
 /*
  */
 
+#include "Display1.h"
 #include "StepperMotor.h"
 #include "Ultrasoon.h"
 
 int main(void)
 {
+    _7segment_setup();
     ultrasoon_setup();
+    initMotor();
     while(1) {
         float afstand_links = ultrasoon_getDistance_L();
         float afstand_rechts = ultrasoon_getDistance_R();
-        while((int)afstand_links == (int)afstand_rechts) {
-            stopAGV();
+        if(afstand_links == afstand_rechts) {
             rijVooruit();
-        } while((int)afstand_links > (int)afstand_rechts) {
-            stopAGV();
+        } if(afstand_links > afstand_rechts) {
             draaiLinks();
-        } while((int)afstand_links < (int)afstand_rechts) {
-            stopAGV();
+        } if(afstand_links < afstand_rechts) {
             draaiRechts();
+        }
+        if(detecteerPakket())
+        {
+            displayAantalPakketten();
         }
     }
     return 0;
